@@ -1,8 +1,9 @@
 package Organization;
 
-public class OrganizationTest {
+public class EditorgnTest
+{
 	public static void main(String[] args) {
-		System.out.println("Hiiiii");
+		System.out.println("edited");
 	}
 
 }
