@@ -1,7 +1,10 @@
 package Organization;
 
+import org.testng.annotations.Test;
+
 public class OrganizationTest {
-	public static void main(String[] args) {
+	@Test
+	public void m2(){
 		System.out.println("Hiiiii");
 	}
 

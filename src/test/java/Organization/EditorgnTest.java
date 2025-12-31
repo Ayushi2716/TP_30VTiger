@@ -1,8 +1,11 @@
 package Organization;
 
+import org.testng.annotations.Test;
+
 public class EditorgnTest
 {
-	public static void main(String[] args) {
+	@Test
+	public void m1(){
 		System.out.println("edited");
 	}
 
